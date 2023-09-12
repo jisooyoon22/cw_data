@@ -52,7 +52,7 @@ daal4py==2023.2.1
 dacite==1.8.1
 dask==2022.7.0
 datashader==0.14.4
-datashape==0.5.4
+datashape==0.5.2
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
