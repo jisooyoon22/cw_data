@@ -266,7 +266,6 @@ rope==1.7.0
 Rtree==1.0.1
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
-ruamel-yaml-conda==0.17.21
 scikit-image==0.19.3
 scikit-learn==1.2.1
 scikit-learn-intelex==20230228.214818
